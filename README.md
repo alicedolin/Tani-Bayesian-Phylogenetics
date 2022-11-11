@@ -5,7 +5,7 @@ The xlsx file contains all the language data and the binary presence-absence mor
 
 Each folder is for one of the dataset variations. The folder contains the nexus file, fasta file, xml file, log file, original trees file, and annotated trees file. The nexus file and fasta file contain the cognacy matrix and can be used to rerun the analysis. The xml file displays all the model choices and model parameter values, as well as the cognacy matrix. The remaining files can be used to observe all the results.
 
-The ‘original’ folder contains the files for the main set of results with the binary covarion, relaxed lognormal, and birth-death model.
+The ‘original’ folder contains the files for the main set of results with the binary covarion, relaxed lognormal, and birth-death model.\
 The ‘calmsea’ folder contains the files for the dataset that contained only the meanings from the original dataset that appeared in the CALMSEA list.
 The ‘calmsea_swadesh’ folder contains the files for the dataset that contained only the meanings from the original dataset that appeared in the CALMSEA list or the Swadesh-200 list.
 The ‘nonrepeated’ folder contains the files for the dataset that did not contain common repeated morphemes.
