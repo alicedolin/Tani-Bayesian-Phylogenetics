@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='BinaryCovarion' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="nonrepeated"
+spec="Alignment"
+dataType="binary"
+name="alignment">
+                    <sequence id="seq_Apatani" spec="Sequence" taxon="Apatani" totalcount="2" value="01001001011000001101100110001001100000110000110001101101001101001001001001000100101100100001100001010100111???1001001001100111101000010001100001100000100100000101100001001100010000001011000000000100001100100100010101010110111000100100100010110011100100101001001000????1000000101010001001000???1101100100001000010101011001???10110110001100101100000010000100010110000??????11001000100??1??11010010010001100101001100011000010010010000011011001010?1100001001100001000110011011001011000000101000100000101000010011?????101100000011000010111100010111000011000100000010110000111000110011010011001000011000001000001110011000100100011100100???????111100001101001011001110011000001000100010000010?1100001001100110011001001010100001000100110?110000101001100001100010010011100010001000100010111000011011111011011000000101101010000110110101011011000110010001000100----11001001011100010000100110000001111000001000001100001001001100001100110000000101000011001001101001101000000100000001110100010001001000110011100011000001010000"/>
+                    <sequence id="seq_Galo" spec="Sequence" taxon="Galo" totalcount="2" value="010010010011000011010100011010000110000010000010011011010011010010010010001001001010100100000101000101001011101001001001100110011000010001100001010000010011000100010001001100001100001000110000000010001000101000010101001110100110010100100010101011010010101001001000100001100001010010011010001101101100011001000100101010001100011101100011001000100000010001000101100001110100100100010010110110010100010011001001010100100100110110100000110001001101001000100001100100010101101100101010000010100001100010110001001110000101100000010010001011100010110000010100010000010110000110100110011010001101000000110000110001110010100100100011100100100000000001000111100101100110101100000100010001100001010010001000110110001110101010010001000100110100110010010011000110000010101010000100????010010111000010011011011000100000101101010000010100101011000100010011001100100110011001001100010-----0100101110000000110001000000010001001001100001101000001000101010011001000111001010001000011000001010010011011001000100011100011000001010000"/>
+                    <sequence id="seq_LowerAdi" spec="Sequence" taxon="LowerAdi" totalcount="2" value="01001001000011001101010001100100000110000100001001101101001101001001001000010010101010001100001100010100101001100100100101011001011001000101000101000001001100010000100100101000110000100000110000001100101010100001001100111010011010010001000111001101001010100100010001000001100101001001101000110110110001100100010010101000110001110110001000100010000000110100010001100110110010010001001011011010010010000110--01010010001100100100011000110001001101000100110001100100010101101100100001100010110000010010100001001110000100011000010001001010010010110000011000010000010001100010010110011011001101000000010000110001101010000100100011010100011000000000100111100101???11010001100010001000001100??10010001000110110000100101010010001000010110111000010010??????1100001001010100000101100001010111000010011011010000100000101101010000110100101011000100010010011000100100010101001101000010000100110011000000101000100000001001001101100001000001110100101000011001000111001010000110001100000101101011011001000101000010010100001000110"/>
+                    <sequence id="seq_Nyishi" spec="Sequence" taxon="Nyishi" totalcount="2" value="01001101011000001101010001101000001001001000?????110???100110100010??????????10010?10001000110000101010010????100100110?100?101000000110011000000011001001000001000010010011000000001110000000000110100010101010001101010?????1001100101001010011011?10100011010001100101000?????????1010101101100??????101001100100010010100010111001110101101100101000010000010001010110000??011010001000100??1??11001010010101100?????100101100001101101000001100010????100100011000110010001???110110010110000001010001000001010000101011000010????????1000100101?????100001100110000100000101100001?????110011011001101000011000000101001110010100100100011100???100000000001000???1001011001110011000001000001010000001?11000010010001100010010010??00100????100110?1100001000111000011000001???101000001010010000??1001010110110110110????????10?101010000110110101011010100010010001000???????1010100???1001?????010010001000000011000001100000110100100110000110000100100010010001100100011100???00100000011100010??110010111001000100011100011010001010000"/>
+                    <sequence id="seq_Tangam" spec="Sequence" taxon="Tangam" totalcount="2" value="0010100100001010?10101000110010000011000101000100110110110???100100110011001001011?0100100000011010101001010011001101001010110100000000101000100010010010010100100010101001010000110001000000010100011001001100010010011001---1-----0011101000???10011010???10110???0100001010000101010010011010001100111100011000110010101010001100011101????1001100001100000100010010000010??01101010011011010101110100011????0110010011010000011011010000011011000100110?000010???001100101010011101100101000100010????0000101010100100110110011000011000010100101110001011000001100000001101000110001000111001101100110011000000110010100110101010010011001101010000011000000010011010110110011010000011011001100001010??10001101000110101100100101001001001100010110111000010010??????11100010010100100????10100101101100100???11011010000011000101101001100010100101011000010????10001010010100010101001100010000111100100010000000101000100000001001001101100001000000001011101001011001000111001010100000001100000101010011011001100000111000010100001011000"/>
+                    <sequence id="seq_Tawra" spec="Sequence" taxon="Tawra" totalcount="2" value="0001001010000001101000100001001000100000000100011001011001101011001001???000100100?00100001000001010101110????011001001?001110010001100010000011000001001000011010000010110001100001001100000001000000111000010001001??01???011000010100010001001001?100101001001---000100010000011010100010010011001???1001000110001001010100011001??001100010010110000001100001000111000001??00010001000100101????01001---0001000110010000010000010010010000010010001??01?00000110100001100011????0100110100000011010011000001010001101011000111000000011000001100100011010000011000110000001010000110?????001101100100010001100000010000111000100011001001111001011000001100000011???01001?011??00100000010011000100000110?00000101110011001000100101??000110011001001?00001101101000011100111000011000110001????00000110000011011???010010000011101?01010001100100101010011000100110010100100100110001011110????01000001100000011000000011000011000101111001001111101?????????00100001001101111001111000000010000011101??000110000110011000100001100001110110001"/>
+                    <sequence id="seq_UpperAdi" spec="Sequence" taxon="UpperAdi" totalcount="2" value="01001001000011001101010001100100000110000100001001101101001101001001001000010010101010010000001101010100101001100100100101011001100001000100100101000001001100010000100100101000110000100000110000001100101010100001001100111010011010010001000111001101001010100100010001000001100101001001101000110110110001100100010010101000110001110110001000100010000000110100010001100110110010001101001011011010010010000110100101001000110011011001100011000100110100010011000110011001010110100010100001001011000001001010000100111000010001100001000100101001001011000001100000110001000110001001011001101100110100000001000011000110101010001010001101010001100000000010011110010110011010001100010001000001100??10010001000110110000100101010010001000010110111000010010100100110001000101010000010????000110110100010011011011000100000101101010000010100101011000100010010001000100100010101001101000010000100110011000000101000100000001001001001100001000001010000101010011001001101001010010010001100000101010011011001000101000010010100001000110"/>
+                </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="100000000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:tree" spec="beast.evolution.tree.Tree" name="stateNode">
+            <taxonset id="TaxonSet.nonrepeated" spec="TaxonSet">
+                <alignment idref="nonrepeated"/>
+            </taxonset>
+        </tree>
+        <parameter id="mutationRate.s:nonrepeated" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="bcov_alpha.s:nonrepeated" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="bcov_s.s:nonrepeated" spec="parameter.RealParameter" lower="1.0E-4" name="stateNode" upper="Infinity">0.5</parameter>
+        <parameter id="frequencies.s:nonrepeated" spec="parameter.RealParameter" dimension="2" lower="0.0" name="stateNode" upper="1.0">0.5 0.5</parameter>
+        <parameter id="ucldStdev.c:clock" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:clock" spec="parameter.IntegerParameter" dimension="12">1</stateNode>
+        <parameter id="BDBirthRate.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="10000.0">1.0</parameter>
+        <parameter id="BDDeathRate.t:tree" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="ucldMean.c:clock" spec="parameter.RealParameter" name="stateNode" upper="1.0">1.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:tree" spec="beast.evolution.tree.SimpleRandomTree" estimate="false" initial="@Tree.t:tree" taxa="@nonrepeated"/>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="BirthDeath.t:tree" spec="beast.evolution.speciation.BirthDeathGernhard08Model" birthDiffRate="@BDBirthRate.t:tree" relativeDeathRate="@BDDeathRate.t:tree" tree="@Tree.t:tree"/>
+            <prior id="BirthRatePrior.t:tree" name="distribution" x="@BDBirthRate.t:tree">
+                <Uniform id="Uniform.5" name="distr" upper="1000.0"/>
+            </prior>
+            <prior id="DeathRatePrior.t:tree" name="distribution" x="@BDDeathRate.t:tree">
+                <Uniform id="Uniform.6" name="distr"/>
+            </prior>
+            <prior id="bcov_alpha_prior.s:nonrepeated" name="distribution" x="@bcov_alpha.s:nonrepeated">
+                <Uniform id="Uniform.1" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="bcov_s_prior.s:nonrepeated" name="distribution" x="@bcov_s.s:nonrepeated">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" lower="0.0" name="alpha" upper="0.0">0.05</parameter>
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="beta" upper="0.0">10.0</parameter>
+                </Gamma>
+            </prior>
+            <prior id="MeanRatePrior.c:clock" name="distribution" x="@ucldMean.c:clock">
+                <Uniform id="Uniform.4" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:clock" name="distribution" x="@ucldStdev.c:clock">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="ingroup.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:tree">
+                <taxonset id="ingroup" spec="TaxonSet">
+                    <taxon id="Apatani" spec="Taxon"/>
+                    <taxon id="Galo" spec="Taxon"/>
+                    <taxon id="LowerAdi" spec="Taxon"/>
+                    <taxon id="Nyishi" spec="Taxon"/>
+                    <taxon id="Tangam" spec="Taxon"/>
+                    <taxon id="UpperAdi" spec="Taxon"/>
+                </taxonset>
+                <Normal id="Normal.0" name="distr">
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="mean">1000.0</parameter>
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="sigma">50.0</parameter>
+                </Normal>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.nonrepeated" spec="TreeLikelihood" tree="@Tree.t:tree" useAmbiguities="true">
+                <data
+id="orgdata.nonrepeated"
+spec="FilteredAlignment"
+ascertained="true"
+data="@nonrepeated"
+excludeto="1"
+filter="-">
+                    <userDataType id="TwoStateCovarion.0" spec="beast.evolution.datatype.TwoStateCovarion"/>
+                </data>
+                <siteModel id="SiteModel.s:nonrepeated" spec="SiteModel" mutationRate="@mutationRate.s:nonrepeated">
+                    <parameter id="gammaShape.s:nonrepeated" spec="parameter.RealParameter" estimate="false" name="shape">1.0</parameter>
+                    <parameter id="proportionInvariant.s:nonrepeated" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="covarion" spec="BinaryCovarion" alpha="@bcov_alpha.s:nonrepeated" switchRate="@bcov_s.s:nonrepeated" vfrequencies="@frequencies.s:nonrepeated">
+                        <parameter id="hiddenfrequencies.s:nonrepeated" spec="parameter.RealParameter" dimension="2" estimate="false" lower="0.0" name="hfrequencies" upper="1.0">0.5 0.5</parameter>
+                        <frequencies id="dummyfrequencies.s:nonrepeated" spec="Frequencies" data="@nonrepeated" estimate="false"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:clock" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:clock" rateCategories="@rateCategories.c:clock" tree="@Tree.t:tree">
+                    <LogNormal id="LogNormalDistributionModel.c:clock" S="@ucldStdev.c:clock" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.3" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="bcovAlphaScaler.s:nonrepeated" spec="ScaleOperator" parameter="@bcov_alpha.s:nonrepeated" weight="0.1"/>
+
+    <operator id="bcovSwitchParamScaler.s:nonrepeated" spec="ScaleOperator" parameter="@bcov_s.s:nonrepeated" weight="0.1"/>
+
+    <operator id="frequenciesDelta.s:nonrepeated" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="frequencies.s:nonrepeated"/>
+    </operator>
+
+    <operator id="FixMeanMutationRatesOperator" spec="DeltaExchangeOperator" delta="0.75" weight="2.0">
+        <parameter idref="mutationRate.s:nonrepeated"/>
+        <weightvector id="weightparameter" spec="parameter.IntegerParameter" estimate="false" lower="0" upper="0">1011</weightvector>
+    </operator>
+
+    <operator id="ucldStdevScaler.c:clock" spec="ScaleOperator" parameter="@ucldStdev.c:clock" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:clock" spec="IntRandomWalkOperator" parameter="@rateCategories.c:clock" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:clock" spec="SwapOperator" intparameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:clock" spec="UniformOperator" parameter="@rateCategories.c:clock" weight="10.0"/>
+
+    <operator id="BirthDeathTreeScaler.t:tree" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="BirthDeathTreeRootScaler.t:tree" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="BirthDeathUniformOperator.t:tree" spec="Uniform" tree="@Tree.t:tree" weight="30.0"/>
+
+    <operator id="BirthDeathSubtreeSlide.t:tree" spec="SubtreeSlide" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="BirthDeathNarrow.t:tree" spec="Exchange" tree="@Tree.t:tree" weight="15.0"/>
+
+    <operator id="BirthDeathWide.t:tree" spec="Exchange" isNarrow="false" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="BirthDeathWilsonBalding.t:tree" spec="WilsonBalding" tree="@Tree.t:tree" weight="3.0"/>
+
+    <operator id="BirthRateScaler.t:tree" spec="ScaleOperator" parameter="@BDBirthRate.t:tree" weight="3.0"/>
+
+    <operator id="DeathRateScaler.t:tree" spec="ScaleOperator" parameter="@BDDeathRate.t:tree" weight="3.0"/>
+
+    <operator id="ucldMeanScaler.c:clock" spec="ScaleOperator" parameter="@ucldMean.c:clock" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="relaxedUpDownOperator.c:clock" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:clock"/>
+        <down idref="Tree.t:tree"/>
+    </operator>
+
+    <logger id="tracelog" spec="Logger" fileName="nonrepeated_BC_RLN_BDM_pr.log" logEvery="1000" model="@posterior" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.nonrepeated"/>
+        <log id="TreeHeight.t:tree" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:tree"/>
+        <log idref="mutationRate.s:nonrepeated"/>
+        <log idref="bcov_alpha.s:nonrepeated"/>
+        <log idref="bcov_s.s:nonrepeated"/>
+        <log idref="frequencies.s:nonrepeated"/>
+        <log idref="ucldStdev.c:clock"/>
+        <log id="rate.c:clock" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+        <log idref="BirthDeath.t:tree"/>
+        <log idref="BDBirthRate.t:tree"/>
+        <log idref="BDDeathRate.t:tree"/>
+        <log idref="ingroup.prior"/>
+        <log idref="ucldMean.c:clock"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" logEvery="1000">
+        <log idref="posterior"/>
+        <log id="ESS.0" spec="util.ESS" arg="@posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:tree" spec="Logger" fileName="nonrepeated_BC_RLN_BDM_pr.trees" logEvery="1000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:tree" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:clock" tree="@Tree.t:tree"/>
+    </logger>
+
+</run>
+
+</beast>
